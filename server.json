@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Smartphone Lorem",
+      "image_url": "https://user-images.githubusercontent.com/948514/85807021-0f81e500-b727-11ea-9aa0-2f06b511c04d.png",
+      "price": 1454.96,
+      "category": 3
+    },
+    {
+      "id": "2",
+      "title": "Smart TV 50\"",
+      "image_url": "https://user-images.githubusercontent.com/948514/85808058-2b3aba80-b72a-11ea-8cc4-1024aa6395b0.png",
+      "price": 2249,
+      "category": 4
+    },
+    {
+      "id": "3",
+      "title": "Notebook Core i3",
+      "image_url": "https://user-images.githubusercontent.com/948514/85808114-4e656a00-b72a-11ea-9856-e6e9dcdb7663.png",
+      "price": 2780.42,
+      "category": 1
+    },
+    {
+      "id": "4",
+      "title": "Cadeira Gammer",
+      "image_url": "https://user-images.githubusercontent.com/948514/85808204-89679d80-b72a-11ea-8233-12ee3e4a040e.png",
+      "price": 719.10,
+      "category": 5
+    },
+    {
+      "id": "5",
+      "title": "Tablet Lorem",
+      "image_url": "https://user-images.githubusercontent.com/948514/85808332-e5cabd00-b72a-11ea-92cf-d00a35899f4b.png",
+      "price": 1029.00,
+      "category": 2
+    },
+    {
+      "id": "6",
+      "title": "Smartphone Ipsum",
+      "image_url": "https://user-images.githubusercontent.com/948514/85808477-57a30680-b72b-11ea-9513-63e9eb6f614e.png",
+      "price": 2099.00,
+      "category": 3
+    },
+    {
+      "id": "7",
+      "title": "Smart TV LED",
+      "image_url": "https://user-images.githubusercontent.com/948514/85808593-b36d8f80-b72b-11ea-8367-060addf0c7fd.png",
+      "price": 3463.94,
+      "category": 4
+    },
+    {
+      "id": "8",
+      "title": "Notebook Core i5",
+      "image_url": "https://user-images.githubusercontent.com/948514/85808779-427aa780-b72c-11ea-99f9-90dea0e40f93.png",
+      "price": 3199.99,
+      "category": 1
+    },
+    {
+      "id": "9",
+      "title": "Smartphone Sit",
+      "image_url": "https://user-images.githubusercontent.com/948514/85904373-ed4b9e00-b7de-11ea-9620-d562a7c4dacd.png",
+      "price": 1299.00,
+      "category": 3
+    },
+    {
+      "id": "10",
+      "title": "Smartphone Amet",
+      "image_url": "https://user-images.githubusercontent.com/948514/85904375-ef156180-b7de-11ea-8461-1642af394f31.png",
+      "price": 1099.00,
+      "category": 3
+    },
+    {
+      "id": "11",
+      "title": "Tablet Ipsum",
+      "image_url": "https://user-images.githubusercontent.com/948514/85904457-28e66800-b7df-11ea-89c9-949eee70004d.png",
+      "price": 1499.90,
+      "category": 2
+    },
+    {
+      "id": "12",
+      "title": "Cadeira Lorem",
+      "image_url": "https://user-images.githubusercontent.com/948514/85904537-5f23e780-b7df-11ea-98a4-d9d3444787dd.png",
+      "price": 899.10,
+      "category": 5
+    },
+    {
+      "id": "13",
+      "title": "Smart TV Lorem",
+      "image_url": "https://user-images.githubusercontent.com/948514/85904614-98f4ee00-b7df-11ea-93ea-3fac6c253a18.png",
+      "price": 1199.00,
+      "category": 4
+    },
+    {
+      "id": "14",
+      "title": "Smart TV Ipsum",
+      "image_url": "https://user-images.githubusercontent.com/948514/85904736-df4a4d00-b7df-11ea-9dc0-f6bf0353ff92.png",
+      "price": 4999.99,
+      "category": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Notebooks",
+      "icon": {
+        "type": "fontawesome",
+        "name": "laptop"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Tablets",
+      "icon": {
+        "type": "feather",
+        "name": "tablet"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Celulares",
+      "icon": {
+        "type": "feather",
+        "name": "smartphone"
+      }
+    },
+    {
+      "id": 4,
+      "title": "TVs",
+      "icon": {
+        "type": "feather",
+        "name": "tv"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Cadeiras",
+      "icon": {
+        "type": "fontawesome",
+        "name": "chair"
+      }
+    }
+  ]
+}
